@@ -1,0 +1,8 @@
+2) Median of 2 unsorted Arrays
+8) Kth Elem
+17) Binary Search using pthread
+18) Binary Search on Singly Linked List
+19) The painter’s partition problem
+20) The painter’s partition problem | Set 2
+24) Number of days after which tank will become empty
+
