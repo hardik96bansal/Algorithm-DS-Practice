@@ -1,3 +1,5 @@
+package Prerequisites;
+
 import java.util.Scanner;
 
 class QuickStart {
