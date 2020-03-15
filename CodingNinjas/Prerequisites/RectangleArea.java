@@ -34,6 +34,6 @@ class RectangleArea{
 
         System.out.println(ans+" ");
         
-        
+        scn.close();
     }
 }
