@@ -1,13 +1,11 @@
 package DynamicProgramming1;
-
-import java.text.DecimalFormat;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class HasanTrip {
-    public static double distance(int x1,int y1, int x2, int y2){
-        int x = (x2-x1)*(x2-x1);
-        int y = (y2-y1)*(y2-y1);
+public class HasanTrip{
+    public static double distance(double x1,double y1,double x2, double y2){
+        double x = (x2-x1)*(x2-x1);
+        double y = (y2-y1)*(y2-y1);
         double noRound = Math.sqrt(x+y);
         return noRound;
     }
@@ -15,12 +13,12 @@ public class HasanTrip {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
         int n = scn.nextInt();
-        int[][] inp = new int[n][3];
+        double[][] inp = new double[n][3];
         //System.out.println(distance(0,0,3,4));
 
         for(int i=0;i<n;i++){
             for(int j=0;j<3;j++){
-                inp[i][j] = scn.nextInt();
+                inp[i][j] = scn.nextDouble();
             }
         }
 
@@ -40,6 +38,7 @@ public class HasanTrip {
 
         double ans = reff[n-1];
         System.out.format("%.6f", ans);
+
         scn.close();
     }
 
