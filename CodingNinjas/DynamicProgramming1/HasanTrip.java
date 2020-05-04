@@ -39,10 +39,7 @@ public class HasanTrip {
         }
 
         double ans = reff[n-1];
-        double round = Math.round(ans*1000000.0)/1000000.0;
-        DecimalFormat df = new DecimalFormat("#.######");
-        System.out.println(df.format(round));
-
+        System.out.format("%.6f", ans);
         scn.close();
     }
 
