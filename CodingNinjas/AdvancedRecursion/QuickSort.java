@@ -1,4 +1,4 @@
-package AdvancedRecursion;
+package CodingNinjas.AdvancedRecursion;
 
 public class QuickSort {
     public static int partition(int[] arr, int start, int end){

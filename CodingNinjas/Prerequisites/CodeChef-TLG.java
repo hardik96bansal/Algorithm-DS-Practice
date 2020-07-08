@@ -1,5 +1,5 @@
 /* package codechef; // don't place package name! */
-package Prerequisites;
+package CodingNinjas.Prerequisites;
 
 import java.util.*;
 import java.lang.*;

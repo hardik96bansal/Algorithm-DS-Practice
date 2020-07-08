@@ -1,4 +1,4 @@
-package DynamicProgramming1;
+package CodingNinjas.DynamicProgramming1;
 
 class BitonicSubseq{
     public static int longestBitonicSubarray(int[] arr){//15 16 14 20 8 21 7

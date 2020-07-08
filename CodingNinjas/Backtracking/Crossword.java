@@ -1,4 +1,4 @@
-package Backtracking;
+package CodingNinjas.Backtracking;
 
 import java.util.ArrayList;
 import java.util.Scanner;

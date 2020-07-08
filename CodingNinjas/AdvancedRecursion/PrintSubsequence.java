@@ -1,4 +1,4 @@
-package AdvancedRecursion;
+package CodingNinjas.AdvancedRecursion;
 
 public class PrintSubsequence {
     public static void subsequenceUtil(String str,String output){

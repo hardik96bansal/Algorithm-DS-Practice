@@ -1,4 +1,4 @@
-package SearchSortAppl;
+package CodingNinjas.SearchSortAppl;
 
 class InversionCount{
     public static long merge(int[] arr, int start, int mid, int end){

@@ -1,4 +1,4 @@
-package DynamicProgramming2;
+package CodingNinjas.DynamicProgramming2;
 
 public class ShortestSub {
 

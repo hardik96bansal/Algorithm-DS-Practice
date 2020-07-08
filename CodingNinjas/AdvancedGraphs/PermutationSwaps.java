@@ -1,4 +1,4 @@
-package AdvancedGraphs;
+package CodingNinjas.AdvancedGraphs;
 
 import java.util.Arrays;
 import java.util.Scanner;

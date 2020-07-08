@@ -1,4 +1,4 @@
-package Graphs1;
+package CodingNinjas.Graphs1;
 
 import java.util.ArrayList;
 import java.util.Arrays;

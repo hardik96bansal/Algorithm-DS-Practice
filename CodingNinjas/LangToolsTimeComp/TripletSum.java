@@ -1,4 +1,4 @@
-package LangToolsTimeComp;
+package CodingNinjas.LangToolsTimeComp;
 
 import java.util.ArrayList;
 import java.util.Set;

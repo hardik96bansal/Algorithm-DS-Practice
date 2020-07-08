@@ -1,4 +1,4 @@
-package AdvancedRecursion;
+package CodingNinjas.AdvancedRecursion;
 
 public class RemoveConsecDup {
     public static String removeConsecutiveDuplicates(String s) {

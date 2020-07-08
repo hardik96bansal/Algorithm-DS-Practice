@@ -1,4 +1,4 @@
-package ModuloOps;
+package CodingNinjas.ModuloOps;
 
 import java.util.Arrays;
 

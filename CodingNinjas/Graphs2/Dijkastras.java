@@ -1,4 +1,4 @@
-package Graphs2;
+package CodingNinjas.Graphs2;
 
 import java.util.HashSet;
 import java.util.Scanner;

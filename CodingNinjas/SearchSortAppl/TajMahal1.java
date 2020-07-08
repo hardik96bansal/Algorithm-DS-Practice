@@ -1,4 +1,4 @@
-package SearchSortAppl;
+package CodingNinjas.SearchSortAppl;
 import java.util.*;
 
 public class TajMahal1 {

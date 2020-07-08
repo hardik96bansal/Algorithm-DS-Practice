@@ -1,4 +1,4 @@
-package SearchSortAppl;
+package CodingNinjas.SearchSortAppl;
 
 import java.util.ArrayList;
 import java.util.HashMap;

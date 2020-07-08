@@ -1,4 +1,4 @@
-package SegmentTree;
+package CodingNinjas.SegmentTree;
 
 import java.util.Arrays;
 

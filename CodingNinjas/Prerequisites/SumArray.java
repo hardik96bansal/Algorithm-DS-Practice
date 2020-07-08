@@ -1,4 +1,4 @@
-package Prerequisites;
+package CodingNinjas.Prerequisites;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package SearchSortAppl;
+package CodingNinjas.SearchSortAppl;
 
 class MergeSort{
     public static void merge(int[] arr, int start, int mid, int end){

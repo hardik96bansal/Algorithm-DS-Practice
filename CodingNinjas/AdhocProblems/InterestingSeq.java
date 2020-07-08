@@ -1,4 +1,4 @@
-package AdhocProblems;
+package CodingNinjas.AdhocProblems;
 
 import java.util.Arrays;
 import java.util.Scanner;

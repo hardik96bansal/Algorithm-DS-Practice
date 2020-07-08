@@ -1,4 +1,4 @@
-package SegmentTree;
+package CodingNinjas.SegmentTree;
 
 public class SegmentTree {
     public static void buildTree(int[] arr, int[] tree, int start, int end, int treeNode){

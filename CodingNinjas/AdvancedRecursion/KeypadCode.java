@@ -1,4 +1,4 @@
-package AdvancedRecursion;
+package CodingNinjas.AdvancedRecursion;
 
 import java.util.Arrays;
 import java.util.HashMap;

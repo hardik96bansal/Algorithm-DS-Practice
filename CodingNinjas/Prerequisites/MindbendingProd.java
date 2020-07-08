@@ -1,4 +1,4 @@
-package Prerequisites;
+package CodingNinjas.Prerequisites;
 
 class MindbendingProd{
     public static void main(String[] args){
