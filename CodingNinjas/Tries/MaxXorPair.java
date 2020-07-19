@@ -1,6 +1,7 @@
 package CodingNinjas.Tries;
 
 class TrieNode{
+    int value;
     TrieNode left;
     TrieNode right;
 }
@@ -59,9 +60,9 @@ public class MaxXorPair {
     }
 
     public static void main(String[] args) {
-        int[] arr = {8, 1, 2, 15, 10 , 5};
+        int[] arr = {8, 1, 2, 10 , 5};
         TrieNode head = new TrieNode();
-        for(int i=0;i<6;i++){
+        for(int i=0;i<5;i++){
             insertNode(head, arr[i]);
         }
         System.out.println(findMaxXor(head, arr));
